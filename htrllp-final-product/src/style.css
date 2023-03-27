@@ -4,3 +4,36 @@
   box-sizing: border-box;
   scroll-behavior: smooth;
 }
+
+a {
+  text-decoration: none;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 25px;
+}
+
+.navigation--header{
+  margin-left: 25px;
+}
+
+ul > li{
+  list-style-type: none;
+}
+
+.nav--list{
+  display: flex;
+  gap: 12.5px;
+  margin: 5px;
+}
+
+.nav--elements {
+  margin-right: 25px;
+}
+
+.header .nav--list--item{
+  color: #000;
+}
