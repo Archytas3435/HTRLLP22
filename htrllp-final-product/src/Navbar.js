@@ -5,32 +5,48 @@ export default function Navbar() {
   return (
     <div className="navigation">
       <div className="navigation--header">
-        <header>
-          <Link to = "/" className="header">HTRLLAP - Chapter 22(Blindness)</Link>
-        </header>
+        <a>
+          <Link to="/" className="header">
+            HTRLLAP - Chapter 22(Blindness)
+          </Link>
+        </a>
       </div>
       <div className="nav--elements">
         <ul className="nav--list">
           <li className="nav--list--item">
-            <Link to = "/visualarts">Visual Arts</Link>
+            <a>
+              <Link to="/visualarts">Visual Arts</Link>
+            </a>
           </li>
           <li className="nav--list--item">
-            <Link to = "/music">Music</Link>
+            <a>
+              <Link to="/music">Music</Link>
+            </a>
           </li>
           <li className="nav--list--item">
-            <Link to = "/literature">Literature</Link>
+            <a>
+              <Link to="/literature">Literature</Link>
+            </a>
           </li>
           <li className="nav--list--item">
-            <Link to = "/movies">Movies</Link>
+            <a>
+              <Link to="/movies">Movies</Link>
+            </a>
           </li>
           <li className="nav--list--item">
-            <Link to = "/childrenliterature">Children's Literature</Link>
+            <a>
+              <Link to="/childrenliterature">Children's Literature</Link>
+            </a>
           </li>
           <li className="nav--list--item">
-            <Link to = "religioustexts">Religious Texts</Link>
+            <a>
+              <Link to="religioustexts">Religious Texts</Link>
+            </a>
           </li>
           <li className="nav--list--item">
-            <Link to = "/podcasts">Podcasts</Link>
+            <a>
+              <Link to="/podcasts">Podcasts</Link>
+            </a>
           </li>
         </ul>
       </div>

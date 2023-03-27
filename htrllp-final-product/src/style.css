@@ -7,17 +7,30 @@
 
 a {
   text-decoration: none;
+  color: rgb(255,255,255);
+  font-weight: bold;
 }
 
 .navigation {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-top: 25px;
+  background: #000;
+  height: 85px;
 }
 
 .navigation--header{
   margin-left: 25px;
+}
+
+.header{
+  font-size: 24px;
+}
+
+.home-page-header{
+  color: rgb(255,255,255);
+  margin-top: 50px;
+  text-shadow: 2px 2px 5px #000;
 }
 
 ul > li{
@@ -26,14 +39,35 @@ ul > li{
 
 .nav--list{
   display: flex;
-  gap: 12.5px;
-  margin: 5px;
+  gap: 14px;
+  margin: 7px;
+}
+
+.home-page{
+  background-image: url("https://images.theconversation.com/files/254561/original/file-20190118-100267-1dwtevs.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop");
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.headers{
+  max-width: 800px;
+  width: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 11.5px;
+  margin: 0 auto;
+}
+
+.section--header{
+  text-align: center;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
 }
 
 .nav--elements {
   margin-right: 25px;
-}
-
-.header .nav--list--item{
-  color: #000;
 }
