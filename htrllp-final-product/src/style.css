@@ -11,6 +11,11 @@ a {
   font-weight: bold;
 }
 
+img {
+  width: 350px;
+  height: 275px;
+}
+
 .navigation {
   display: flex;
   justify-content: space-between;
@@ -70,4 +75,24 @@ ul > li{
 
 .nav--elements {
   margin-right: 25px;
+}
+
+.visualArts{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.exhibit-1, .exhibit-2, .exhibit-3{
+  display: flex;
+  align-items: center;
+  max-width: 800px;
+  width: 100%;
+  gap: 40px;
+  margin: 15px;
+}
+
+.exhibit-2{
+  flex-direction: row-reverse;
 }
