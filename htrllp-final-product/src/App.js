@@ -6,7 +6,6 @@ import ChildrensLiterature from "./Components/ChildrensLiterature";
 import Literature from "./Components/Literature";
 import Movies from "./Components/Movies";
 import Music from "./Components/Music";
-import Podcasts from "./Components/Podcasts";
 import ReligiousTexts from "./Components/ReligiousTexts";
 import VisualArts from "./Components/VisualArts";
 import Home from "./Home";
@@ -19,7 +18,7 @@ export default function App() {
       </div>
       <div className="pages">
         <Routes>
-          <Route path = "/" element = {<Home />}></Route>
+          <Route path="/" element={<Home />}></Route>
           <Route path="/visualarts" element={<VisualArts />}></Route>
           <Route path="/music" element={<Music />}></Route>
           <Route path="/literature" element={<Literature />}></Route>
@@ -29,7 +28,6 @@ export default function App() {
             element={<ChildrensLiterature />}
           ></Route>
           <Route path="/religioustexts" element={<ReligiousTexts />}></Route>
-          <Route path="/podcasts" element={<Podcasts />}></Route>
         </Routes>
       </div>
     </div>

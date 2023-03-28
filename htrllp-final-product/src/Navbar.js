@@ -43,11 +43,6 @@ export default function Navbar() {
               <Link to="religioustexts">Religious Texts</Link>
             </a>
           </li>
-          <li className="nav--list--item">
-            <a>
-              <Link to="/podcasts">Podcasts</Link>
-            </a>
-          </li>
         </ul>
       </div>
     </div>

@@ -22,10 +22,10 @@ export default function VisualArts() {
         depicting six blind men following another blind man with a stick. The
         men are walking towards a ditch, where the lead man is about to fall.
         The painting is an allegory for the dangers of blindly following a
-        leader without independent critical thinking. The men’s blindness
+        leader without independent critical thinking. The men&aposs blindness
         prevents them from being able to see the danger they are approaching.
         This could be interpreted as an inability to recognize the truth of
-        one’s situation or the infallibility of authority. “The Blind Leading
+        one&aposs situation or the infallibility of authority. “The Blind Leading
         the Blind” is a cautionary tale about the dangers of blindly following a
         supposed leader and the need for sight, and metaphorically insight, to
         walk an enlightened path.
@@ -39,12 +39,12 @@ export default function VisualArts() {
         through both its subject matter and its broader historical context in
         Rococo France. The painting depicts a young woman on a swing being
         pushed by an older man, presumably her husband, while being watched by a
-        young man looking up the woman’s dress hidden from below. The woman is
+        young man looking up the woman&aposs dress hidden from below. The woman is
         partaking in an aristocratic activity supposed to take place in private,
         and as such, is blind to both the desires of her lover and the societal
         unrest of the lower classes in pre-Revolution France. Her innocence
         blinds her to the reality of discourse and desire in the world. The
-        woman’s husband is equally blind to the woman’s lover, indicating a lack
+        woman&aposs husband is equally blind to the woman&aposs lover, indicating a lack
         of value towards the woman. “The Swing” utilizes blindness in the
         non-literal sense to convey the limits of human perception, especially
         of the out-of-touch nature of the superficial elite.{" "}

@@ -21,16 +21,16 @@ export default function ReligiousTexts() {
         In the Bhagavad Gita, the father of the Kauravas, Dhritarashtra, was
         born physically blind, but grew to be spiritually blind as well. One of
         the main reasons for the outbreak of the Kurukshetra war between the
-        Kauravas and the Pandavas is the fact that Dhritarashtra’s brother Pandu
+        Kauravas and the Pandavas is the fact that Dhritarashtra&aposs brother Pandu
         was chosen to ascend to the throne because he could see. This further
-        led to Dhritarashtra’s isolation and spiritual blindness as he felt
+        led to Dhritarashtra&aposs isolation and spiritual blindness as he felt
         wronged by this decision. Likewise, Dhritarashtra is blinded by his
         immense love for his sons, which causes him to overlook any possible
         acts of wrongdoing by them, further fueling the war. Dhritarashtra
         continually weakens his own position in the war by ignoring his
-        advisor’s advice and instead using his own instincts, illustrating how
+        advisor&aposs advice and instead using his own instincts, illustrating how
         independence without regard for others can lead to negative outcomes.
-        Dhritarashtra’s physical blindness is a metaphor for his lack of vision
+        Dhritarashtra&aposs physical blindness is a metaphor for his lack of vision
         for the future due to his ignorance.
       </p>
       <img

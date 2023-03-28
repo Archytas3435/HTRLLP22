@@ -72,14 +72,14 @@ export default function Music() {
       />
       <p>
         “Three Blind Mice” is a nursery rhyme that tells the story of three
-        blind mice who are being chased by a farmer’s wife with a carving knife.
+        blind mice who are being chased by a farmer&aposs wife with a carving knife.
         In its original context, it also alluded to the Protestant Loyalists
         Ridley, Latimer, and Cranmer, who were executed after being accused of
         plotting against Queen Mary I. Protestants were often persecuted at that
         time, and the loyalists were seen as being blind to the idea that they
-        would not be accepted by the royals. The mice’s blindness indicates
+        would not be accepted by the royals. The mice&aposs blindness indicates
         their inability to understand the danger that they are in, while the
-        farmer’s wife (in this case, the Queen) can see the entire situation and
+        farmer&aposs wife (in this case, the Queen) can see the entire situation and
         thus take advantage of the power she wields.
       </p>
     </>
