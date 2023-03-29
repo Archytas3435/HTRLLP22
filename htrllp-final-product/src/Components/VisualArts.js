@@ -15,6 +15,7 @@ export default function VisualArts() {
         <img
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pieter_Brueghel_the_Younger—The_Parable_of_the_Blind.jpg/378px-Pieter_Brueghel_the_Younger—The_Parable_of_the_Blind.jpg"
           alt="The Blind Leading the Blind"
+          className = "visualArts1"
         />
         <p>
           “The Blind Leading the Blind” by Pieter Bruegel the Elder is a

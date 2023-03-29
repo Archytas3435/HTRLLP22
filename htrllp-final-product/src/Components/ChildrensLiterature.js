@@ -81,7 +81,7 @@ export default function ChildrensLiterature() {
           is weakened irrecoverably. Both the boy and the tree are blind in this
           tale, with the boy being unable to recognize the damage he is causing
           to the tree and the tree being blind to the idea of valuing its own
-          self and relationship with the boy over providing all of the boy&aposs
+          self and relationship with the boy over providing all of the {"boy's"}
           immediate wants.
         </p>
       </div>

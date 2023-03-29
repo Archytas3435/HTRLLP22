@@ -1,8 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   scroll-behavior: smooth;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+p{
+  font-family: 'Roboto', sans-serif;
 }
 
 a {
@@ -12,8 +22,12 @@ a {
 }
 
 img {
-  width: 375px;
-  height: 450px;
+  width: 425px;
+  height: 500px;
+}
+
+.visualArts1{
+  width: 500px;
 }
 
 .navigation {
